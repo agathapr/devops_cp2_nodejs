@@ -1,0 +1,11 @@
+{
+  "name": "devops_cp2_nodejs",
+  "version": "1.0.0",
+  "description": "Projeto para o Checkpoint 2 da matéria de DevOps - 2TDSPH",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
