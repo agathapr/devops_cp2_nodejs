@@ -6,7 +6,7 @@ const port = 3000;
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/html');
-  res.end('<h1>Implantação efetuada com sucesso. Bom trabalho!</h1>\n');
+  res.end('Implantacao efetuada com sucesso. Bom trabalho!');
 });
 
 server.listen(port, hostname, () => {
